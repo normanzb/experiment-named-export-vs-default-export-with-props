@@ -1,0 +1,22 @@
+{
+  "name": "experiment-named-export-vs-default-export-with-props",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanzb/experiment-named-export-vs-default-export-with-props.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/normanzb/experiment-named-export-vs-default-export-with-props/issues"
+  },
+  "homepage": "https://github.com/normanzb/experiment-named-export-vs-default-export-with-props#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
